@@ -4,7 +4,14 @@ Basic raycasting
 Theme 1:
 ![alt text](https://github.com/juthomas/WOLF_3D/blob/master/.img/Theme1.png)
 
+
+
+
+
+
 Optionals themes:
+
+
 Theme 2:
 ![alt text](https://github.com/juthomas/WOLF_3D/blob/master/.img/Theme2.png)
 Theme 3:
